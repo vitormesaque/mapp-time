@@ -26,12 +26,12 @@ Our contributions include:
 
 ## Experimental Package
 
-[Issue Embeddings Model] (http://200.129.210.70/experimental-package/issue_embeddings.model)
-[Issue Network Model] (http://200.129.210.70/experimental-package/issue_embeddings.model)
-[Issues] (http://200.129.210.70/experimental-package/issue_embeddings.model)
-[M-iDetect] (http://200.129.210.70/experimental-package/issue_embeddings.model)
-[M-iDynamic] (http://200.129.210.70/experimental-package/)
-[Dataset] (http://200.129.210.70/experimental-package/dataset.zip)
+[Issue Embeddings Model](http://200.129.210.70/experimental-package/issue_embeddings.model)
+[Issue Network Model](http://200.129.210.70/experimental-package/issue_network.model)
+[Issues](http://200.129.210.70/experimental-package/issues.model)
+[M-iDetect](http://200.129.210.70/experimental-package/m-idetect.model)
+[M-iDynamic](http://200.129.210.70/experimental-package/m-idynamic.model)
+[Dataset](http://200.129.210.70/experimental-package/dataset.zip)
 
 
 ## Conclusion
