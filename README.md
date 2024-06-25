@@ -24,13 +24,14 @@ Our contributions include:
   
 - **Dataset Availability**: Providing access to the dataset of 13 million reviews across diverse app domains, facilitating further research and development in app issue management.
 
-## Usage
+## Experimental Package
 
-1. **Clone Repository**: Clone this repository to your local machine.
-   
-2. **Setup**: Follow the setup instructions in the documentation to deploy the microservices architecture and initialize the temporal dynamic modeling.
+[Issue Embeddings Model] ()
+[Issue Network Model] ()
+[Issues] ()
+[M-iDetect] ()
+[M-iDynamic] ()
 
-3. **Explore**: Use the provided dataset to explore and analyze user reviews, understanding the patterns and trends in app issues across different domains.
 
 ## Conclusion
 
